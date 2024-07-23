@@ -24,5 +24,6 @@ protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws Se
 	double sgstofkar1=Double.parseDouble(sgstofkar);
 	System.out.println("CGST IS"+cgst1);
 	System.out.println("SGST IS"+sgstofkar1);
+//	hii
 }
 }
